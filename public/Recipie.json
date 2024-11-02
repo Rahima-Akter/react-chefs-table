@@ -1,0 +1,319 @@
+[
+    {
+        "id": 1,
+        "dish_name": "spaghetti carbonara",
+        "little_dish_description": "A classic Italian pasta dish made with eggs, cheese, and pepper.",
+        "length_of_ingredients": 5,
+        "list_of_ingredients": [
+            "300g spaghetti - cooked",
+            "2 large eggs - beaten",
+            "100g parmesan cheese - grated",
+            "black pepper - to taste",
+            "2 tbsp olive oil - for flavor"
+        ],
+        "cooking_time": 20,
+        "total_calories": 600,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEyJXfbgKj4AcI4fluX8ynG4mXPiM5AoeEwQ&s"
+    },
+    {
+        "id": 2,
+        "dish_name": "chicken tikka masala",
+        "little_dish_description": "Grilled chicken chunks cooked in a creamy, spiced tomato sauce.",
+        "length_of_ingredients": 10,
+        "list_of_ingredients": [
+            "500g chicken - cubed and marinated",
+            "200g yogurt - for marination",
+            "400g tomato sauce - base",
+            "1 onion - chopped",
+            "3 garlic cloves - minced",
+            "1 inch ginger - grated",
+            "1 tsp cumin - ground",
+            "1 tsp coriander - ground",
+            "100ml cream - for sauce",
+            "fresh cilantro - for garnish"
+        ],
+        "cooking_time": 40,
+        "total_calories": 500,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzZdUzvlONsvsITVDY00aoLJqtyHiEYR2JA&s"
+    },
+    {
+        "id": 3,
+        "dish_name": "sushi rolls",
+        "little_dish_description": "Japanese rice rolls filled with fresh seafood and vegetables.",
+        "length_of_ingredients": 8,
+        "list_of_ingredients": [
+            "250g sushi rice - cooked",
+            "5 sheets nori - for rolling",
+            "150g salmon - sliced",
+            "1 avocado - sliced",
+            "1 cucumber - julienned",
+            "soy sauce - for dipping",
+            "wasabi - to taste",
+            "1 tbsp sesame seeds - for garnish"
+        ],
+        "cooking_time": 30,
+        "total_calories": 350,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpJ7UYBDn9ME6ngqInZYRk9fD5IBvqUZb7g&s"
+    },
+    {
+        "id": 4,
+        "dish_name": "beef stroganoff",
+        "little_dish_description": "Tender beef in a creamy mushroom sauce served over noodles.",
+        "length_of_ingredients": 7,
+        "list_of_ingredients": [
+            "400g beef - sliced",
+            "200g mushrooms - sliced",
+            "1 onion - chopped",
+            "200g sour cream - for sauce",
+            "300ml beef broth - base",
+            "250g egg noodles - cooked",
+            "2 tbsp butter - for frying"
+        ],
+        "cooking_time": 50,
+        "total_calories": 700,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMUlGaWEmgMGXGtTamUrmiKtP6Al5R5zFEzQ&s"
+    },
+    {
+        "id": 5,
+        "dish_name": "caprese salad",
+        "little_dish_description": "A fresh salad made with mozzarella, tomatoes, and basil.",
+        "length_of_ingredients": 5,
+        "list_of_ingredients": [
+            "200g mozzarella - sliced",
+            "3 ripe tomatoes - sliced",
+            "fresh basil - for garnish",
+            "2 tbsp olive oil - for dressing",
+            "1 tbsp balsamic vinegar - for drizzling"
+        ],
+        "cooking_time": 10,
+        "total_calories": 300,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjLxngvShCILDCNyEFBNHWWn_81TAfg1-Mqg&s"
+    },
+    {
+        "id": 6,
+        "dish_name": "pad thai",
+        "little_dish_description": "Stir-fried rice noodles with shrimp, peanuts, and bean sprouts.",
+        "length_of_ingredients": 9,
+        "list_of_ingredients": [
+            "200g rice noodles - soaked",
+            "150g shrimp - peeled",
+            "100g tofu - diced",
+            "50g peanuts - crushed",
+            "100g bean sprouts - fresh",
+            "1 egg - beaten",
+            "1 lime - wedges for serving",
+            "2 tbsp fish sauce - for seasoning",
+            "2 green onions - sliced"
+        ],
+        "cooking_time": 30,
+        "total_calories": 450,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqiM0CHVkgLvAoCBOsmAlHeMQGIgzHJ_VOwg&s"
+    },
+    {
+        "id": 7,
+        "dish_name": "chocolate lava cake",
+        "little_dish_description": "A rich chocolate cake with a molten center.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "200g dark chocolate - melted",
+            "150g butter - melted",
+            "150g sugar - whisked with eggs",
+            "3 eggs - beaten",
+            "50g flour - sifted",
+            "1 tsp vanilla extract - for flavor"
+        ],
+        "cooking_time": 25,
+        "total_calories": 400,
+        "img": "https://png.pngtree.com/thumb_back/fh260/background/20230519/pngtree-chocolate-cake-topping-and-sauce-on-a-plate-image_2568119.jpg"
+    },
+    {
+        "id": 8,
+        "dish_name": "falafel wrap",
+        "little_dish_description": "Crispy falafel balls wrapped in pita with veggies and tahini sauce.",
+        "length_of_ingredients": 7,
+        "list_of_ingredients": [
+            "8 falafel - fried",
+            "4 pita breads - warmed",
+            "100g lettuce - shredded",
+            "1 tomato - sliced",
+            "1 cucumber - sliced",
+            "50g tahini - for dressing",
+            "1 onion - sliced"
+        ],
+        "cooking_time": 15,
+        "total_calories": 450,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlufrkJnAljWAcW3Cl5gLlIbsC3GD8edfsw&s"
+    },
+    {
+        "id": 9,
+        "dish_name": "vegetable curry",
+        "little_dish_description": "A spicy mix of vegetables simmered in coconut milk and curry spices.",
+        "length_of_ingredients": 8,
+        "list_of_ingredients": [
+            "300g mixed vegetables - chopped",
+            "400ml coconut milk - for base",
+            "2 tbsp curry paste - for flavor",
+            "1 onion - diced",
+            "3 garlic cloves - minced",
+            "1 inch ginger - grated",
+            "fresh cilantro - for garnish",
+            "1 lime - juiced"
+        ],
+        "cooking_time": 35,
+        "total_calories": 300,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifuBYsI3C_6m8ZCyjWU-PdGW0Ro5sUjHxCg&s"
+    },
+    {
+        "id": 10,
+        "dish_name": "shrimp tacos",
+        "little_dish_description": "Soft corn tortillas filled with seasoned shrimp and fresh toppings.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "300g shrimp - seasoned and cooked",
+            "6 corn tortillas - warmed",
+            "100g cabbage - shredded",
+            "1 lime - juiced",
+            "100g salsa - for topping",
+            "1 avocado - sliced"
+        ],
+        "cooking_time": 20,
+        "total_calories": 400,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDpSuAJLvXoo51RCXd63lr9Cza-4nkj_Hng&s"
+    },
+    {
+        "id": 11,
+        "dish_name": "quiche lorraine",
+        "little_dish_description": "A savory pie filled with eggs, cream, cheese, and vegetables.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "1 pie crust - prepared",
+            "4 large eggs - beaten",
+            "200ml cream - for filling",
+            "150g cheese - grated",
+            "100g spinach - chopped",
+            "1 pinch nutmeg - for seasoning"
+        ],
+        "cooking_time": 45,
+        "total_calories": 500,
+        "img": "https://img.pikbest.com/wp/202344/delicious-turkey-deliciously-rustic-french-quiche-a-homemade-delight-with-mushrooms-and-cheese-set-against-dark-textured-backdrop_9902596.jpg!w700wp"
+    },
+    {
+        "id": 12,
+        "dish_name": "pancakes",
+        "little_dish_description": "Fluffy pancakes served with syrup and butter.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "200g flour - sifted",
+            "300ml milk - mixed in",
+            "2 large eggs - beaten",
+            "1 tbsp baking powder - for fluffiness",
+            "50g sugar - for sweetness",
+            "50g butter - melted"
+        ],
+        "cooking_time": 20,
+        "total_calories": 350,
+        "img": "https://www.shutterstock.com/image-photo/pancakes-raspberries-around-on-black-260nw-1664047354.jpg"
+    },
+    {
+        "id": 13,
+        "dish_name": "mushroom risotto",
+        "little_dish_description": "Creamy rice dish cooked with mushrooms and Parmesan.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "300g Arborio rice - rinsed",
+            "200g mushrooms - sliced",
+            "1 liter vegetable broth - heated",
+            "1 onion - chopped",
+            "100g parmesan cheese - grated",
+            "50g butter - for creaminess"
+        ],
+        "cooking_time": 30,
+        "total_calories": 450,
+        "img": "https://www.thedailymeal.com/img/gallery/recipe-of-the-day-mushroom-risotto/shutterstock_562748863.jpg"
+    },
+    {
+        "id": 14,
+        "dish_name": "vegetable stir-fry",
+        "little_dish_description": "A quick stir-fry of fresh vegetables in a savory sauce.",
+        "length_of_ingredients": 7,
+        "list_of_ingredients": [
+            "200g bell peppers - sliced",
+            "100g broccoli - chopped",
+            "100g carrots - julienned",
+            "50g snap peas - trimmed",
+            "3 tbsp soy sauce - for seasoning",
+            "1 tbsp sesame oil - for flavor",
+            "1 tsp ginger - grated"
+        ],
+        "cooking_time": 15,
+        "total_calories": 200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3L5dMnuN9skakrVnplCFIP1FbkkvAdst2kQ&s"
+    },
+    {
+        "id": 15,
+        "dish_name": "chickpea salad",
+        "little_dish_description": "A healthy salad with chickpeas, veggies, and a lemon dressing.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "400g canned chickpeas - drained",
+            "1 cucumber - diced",
+            "1 bell pepper - diced",
+            "100g cherry tomatoes - halved",
+            "2 tbsp olive oil - for dressing",
+            "1 lemon - juiced"
+        ],
+        "cooking_time": 10,
+        "total_calories": 300,
+        "img": "https://i.pinimg.com/736x/ff/a5/0d/ffa50db27904b743f556915c13a34a31.jpg"
+    },
+    {
+        "id": 16,
+        "dish_name": "pumpkin soup",
+        "little_dish_description": "A creamy and comforting soup made from fresh pumpkin.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "500g pumpkin - peeled and chopped",
+            "1 onion - diced",
+            "2 garlic cloves - minced",
+            "500ml vegetable broth - for base",
+            "100ml cream - for richness",
+            "1 tsp nutmeg - for seasoning"
+        ],
+        "cooking_time": 30,
+        "total_calories": 250,
+        "img": "https://img.freepik.com/premium-photo/photo-pumpkin-soup-dark-background_951116-687.jpg"
+    },
+    {
+        "id": 17,
+        "dish_name": "fruit salad",
+        "little_dish_description": "A refreshing mix of seasonal fruits.",
+        "length_of_ingredients": 5,
+        "list_of_ingredients": [
+            "200g strawberries - sliced",
+            "150g blueberries - whole",
+            "1 banana - sliced",
+            "1 kiwi - diced",
+            "2 tbsp honey - for sweetness"
+        ],
+        "cooking_time": 10,
+        "total_calories": 150,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHuQtTuJQEulXG9FLNP0PlRPnU8NsHMg8C1w&s"
+    },
+    {
+        "id": 18,
+        "dish_name": "grilled vegetable skewers",
+        "little_dish_description": "Colorful skewers of grilled vegetables marinated in herbs.",
+        "length_of_ingredients": 6,
+        "list_of_ingredients": [
+            "200g bell peppers - cut into chunks",
+            "150g zucchini - sliced",
+            "100g cherry tomatoes - whole",
+            "1 red onion - cut into wedges",
+            "3 tbsp olive oil - for marinating",
+            "1 tsp dried oregano - for flavor"
+        ],
+        "cooking_time": 25,
+        "total_calories": 200,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLEWLwX8eiNsATCCBsmhlWIXJjNxc7i-zlPA&s"
+    }
+]
